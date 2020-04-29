@@ -1,3 +1,3 @@
-SCALA FUNCTIONAL PROGRAMMING PRINCIPLES
+* SCALA FUNCTIONAL PROGRAMMING PRINCIPLES
 
-I am learning scala therefore I use this repo for codding.
+I am learning scala therefore I use this repo for coding.
